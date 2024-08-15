@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
     ```
 3. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/reeceflix.git
+    git clone https://github.com/your-username/Movieflix.git
     ```
 
 ### Step 3: Set Up the Database
