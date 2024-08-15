@@ -13,7 +13,6 @@ MovieFlix is a Netflix clone built using PHP, MySQL, and integrated with PayPal 
   - [Step 5: Start the Application](#step-5-start-the-application)
 - [Usage](#usage)
 - [Payment Integration](#payment-integration)
-- [License](#license)
 
 ## Features
 - User authentication (Sign up, Login, Logout)
